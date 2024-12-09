@@ -9,7 +9,7 @@ console.log("일반 메시지");
 console.info("정보 메시지");
 
 // 내용을 연속적으로 출력할 때는 ,로 구분
-console.log("ECMAScript", 2024, process);
+console.log("ECMAScript", 2024, true);
 
 console.log(process);
 // 객체의 속성에 접근할 때는 . 으로 접근
