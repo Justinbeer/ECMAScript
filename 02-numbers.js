@@ -17,7 +17,7 @@ console.log(Math.round(3.567), Math.trunc(3.567), Math.floor(3.567));
 
 console.log("========= Castiong")
 // 자바스크립트는 변수 선언시 데이터 타입을 지정하지 않고,
-// 중간에 데이터타입이 변경될수있으니, 
+// 중간에 데이터타입이 변경될수있으므로 데이터 형 변환이 필요한경우가 많다 
 
 // parseInt, parseFloat : Number 타입으로 변환하는 함수
 console.log(parseInt("011"), typeof parseInt("011"));
