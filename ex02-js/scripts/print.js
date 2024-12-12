@@ -1,0 +1,1 @@
+document.write("<p>Welcome, " + name + "님 안녕하세요");
